@@ -29,9 +29,11 @@ export default function HeroSection() {
             <span>✅ 100% Job Success Score</span>|
             <span>💼 Available: 24/7</span>
           </p>
-          <button className="bg-[#f05228] font-figtree text-white text-[20px] font-semibold px-6 py-3 rounded shadow-md border-2 border-transparent hover:bg-white hover:text-[#f05228] hover:border-[#f05228] transition duration-300 mb-6">
-            Contact Me
-          </button>
+          <a href="mailto:sallalzahid51@gmail.com">
+            <button className="bg-[#f05228] font-figtree text-white text-[20px] font-semibold px-6 py-3 rounded shadow-md border-2 border-transparent hover:bg-white hover:text-[#f05228] hover:border-[#f05228] transition duration-300 mb-6">
+              Contact Me
+            </button>
+          </a>
           <div className="flex space-x-6 mt-6">
             <a
               href="#"
