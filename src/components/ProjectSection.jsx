@@ -19,13 +19,40 @@ const projects = [
     price: '$100',
     description: 'Modren landing page built using HTML and BootStrap CSS.',
     image: Img2,
-    link: 'https://madcuts.infonavigators.com/',
+    link: 'http://infonavigators.com/',
   },
   {
     id: 3,
     title: 'Digital Agency',
     price: '$100',
     description: 'Digital Agency site built using the React Or Tailwind CSS',
+    image: Img3,
+    link: 'https://taskubar.netlify.app/',
+  },
+
+  {
+    id: 4,
+    title: 'Video Editors',
+    price: '$100',
+    description: 'Video Editing Services Provider',
+    image: Img1,
+    link: 'https://685b346873dd7c6b36c9b45e--madcuts-web.netlify.app/',
+  },
+
+  {
+    id: 5,
+    title: 'Task Providers',
+    price: '$100',
+    description: 'This company fives freelancing services',
+    image: Img2,
+    link: 'https://taskuber.netlify.app/',
+  },
+
+  {
+    id: 6,
+    title: 'AI Service Providers',
+    price: '$100',
+    description: 'This company fives freelancing services for AI',
     image: Img3,
     link: 'https://intellyse.netlify.app/',
   },
